@@ -1,4 +1,4 @@
 ---
-James Lee: Welcome to my blog
+Jim Lee: Welcome to my blog
 ---
 
