@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+James Lee: Welcome to my blog
 ---
 
